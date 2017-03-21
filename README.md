@@ -1,6 +1,6 @@
 # file-upload-vue
 
-> A Vue.js project
+> A Vue.js project from the tutorial at [Scotch.io](https://scotch.io/tutorials/how-to-handle-file-uploads-in-vue-2)
 
 ## Build Setup
 
